@@ -1,2 +1,2 @@
-# WebApplications-Week01
+# web-apps-week1
 Created with CodeSandbox
